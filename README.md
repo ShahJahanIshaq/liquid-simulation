@@ -2,6 +2,10 @@
 
 A water physics simulation built with C and SDL2. Can watch water flow, settle under gravity, and interact with mouse to add/remove walls, obstacles, and water sources in real-time.
 
+## Screenshot
+
+![Fluid Simulation Demo](imgs/screenshot.png)
+
 ## Requirements
 
 - GCC or Clang
